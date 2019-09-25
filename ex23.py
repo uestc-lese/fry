@@ -1,3 +1,4 @@
+
 import sys
 script, encoding, error = sys.argv
 
