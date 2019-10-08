@@ -1,0 +1,25 @@
+As a junior high school student, I began to learn programming. Unfortunately, I had read several junk 
+books, such as 21 Days Mastery C++, which were common at that time. It was not a big problem to read them, 
+and even to write a little program. But I don't know why the software is out of order. I can't start with 
+a slightly huge programming problem, and I can't do anything with the existing libraries. Although I code 
+constantly every day, I find myself programmed so slowly that I have only a very limited understanding of 
+the concepts of iteration and recursion, so to speak, just using a computer as a calculator.
+After entering college, I majored in physics. For the first time, I had been memorizing and reciting the 
+physical formulas, but I couldn't understand how they came to be, what they were related to, or what they
+meant. I kept learning how to calculate and answer some common physics questions, but I didn't know what 
+was behind these houses.
+And when I tried to do some computer games based on physical behavior, I had the same problem again: I 
+couldn't get started with new problems, the fear of new problems grew, and I began to take the initiative 
+to escape, not really understand, but to fantasize about solving problems by copying and pasting code 
+through Google search. Fortunately, a class in my sophomore year completely changed my way of learning. It 
+was the first time that I had the feeling of "opening my eyes" and I realized painfully that I had only a 
+poor real understanding of some subjects, including physics and computer science minors.
+About that lesson: We had just finished studying electricity and special relativity. The professor wrote 
+down the two subjects on the blackboard and drew a line to connect them. "Suppose we have an electron 
+moving along the wire at a relativistic level. At first the professor wrote down the familiar formulas of 
+electrical and special relativity, but after the algebraic derivation of several blackboards, the formula 
+for the magnetic field magically appeared. Although I knew this formula a few years ago, I had no idea 
+there was such a potential connection between these phenomena. The difference between magnetism and 
+electricity was just an "angle of view." I suddenly realized that I was no longer just pursuing how. I 
+began to ask why. I began to look back and pick up the basics and learn what I should have learned before. 
+This process of return is painful. I hope you can wake up and never do such a foolish thing.
